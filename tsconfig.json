@@ -4,10 +4,28 @@
   "files": [],
   "references": [
     {
-      "path": "./apps/nestjs-microservices-e2e"
+      "path": "./apps/api-gateway-e2e"
     },
     {
-      "path": "./apps/nestjs-microservices"
+      "path": "./apps/api-gateway"
+    },
+    {
+      "path": "./apps/order-service-e2e"
+    },
+    {
+      "path": "./apps/order-service"
+    },
+    {
+      "path": "./apps/payment-service-e2e"
+    },
+    {
+      "path": "./apps/payment-service"
+    },
+    {
+      "path": "./apps/notification-service-e2e"
+    },
+    {
+      "path": "./apps/notification-service"
     }
   ]
 }
